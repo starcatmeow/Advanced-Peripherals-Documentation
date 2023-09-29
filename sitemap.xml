@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.intelligence-modding.de/guides/how_to_report/</loc>
+         <lastmod>2023-09-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.intelligence-modding.de/integrations/</loc>
          <lastmod>2023-09-29</lastmod>
          <changefreq>daily</changefreq>
@@ -177,6 +182,11 @@
     </url>
     <url>
          <loc>https://docs.intelligence-modding.de/integrations/minecraft/noteblock/</loc>
+         <lastmod>2023-09-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.intelligence-modding.de/integrations/powah/ender_cell/</loc>
          <lastmod>2023-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
